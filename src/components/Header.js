@@ -44,30 +44,30 @@ function Header() {
 			</Logo>
 			<CenterMenu className="nav-blur-active">
 				<li>
-					<a href="/">Model S</a>
+					<a href="#">Model S</a>
 				</li>
 				<li>
-					<a href="/">Model 3</a>
+					<a href="#">Model 3</a>
 				</li>
 				<li>
-					<a href="/">Model X</a>
+					<a href="#">Model X</a>
 				</li>
 				<li>
-					<a href="/">Model Y</a>
+					<a href="#">Model Y</a>
 				</li>
 				<li>
-					<a href="/">Solar Roof</a>
+					<a href="#">Solar Roof</a>
 				</li>
 				<li>
-					<a href="/">Solar Panels</a>
+					<a href="#">Solar Panels</a>
 				</li>
 			</CenterMenu>
 			<RightMenu>
 				<li>
-					<a href="/">Shop</a>
+					<a href="#">Shop</a>
 				</li>
 				<li>
-					<a href="/">Account</a>
+					<a href="#">Account</a>
 				</li>
 				<li onClick={handleMenuOpen}>
 					<p>Menu</p>
@@ -84,46 +84,46 @@ function Header() {
 				</CloseMenuButton>
 				<ul>
 					<li>
-						<a href="/">Existing Inventory</a>
+						<a href="#">Existing Inventory</a>
 					</li>
 					<li>
-						<a href="/">Used Inventory</a>
+						<a href="#">Used Inventory</a>
 					</li>
 					<li>
-						<a href="/">Trade-In</a>
+						<a href="#">Trade-In</a>
 					</li>
 					<li>
-						<a href="/">Test Drive</a>
+						<a href="#">Test Drive</a>
 					</li>
 					<li>
-						<a href="/">Cybertruck</a>
+						<a href="#">Cybertruck</a>
 					</li>
 					<li>
-						<a href="/">Roadster</a>
+						<a href="#">Roadster</a>
 					</li>
 					<li>
-						<a href="/">Semi</a>
+						<a href="#">Semi</a>
 					</li>
 					<li>
-						<a href="/">Charging</a>
+						<a href="#">Charging</a>
 					</li>
 					<li>
-						<a href="/">Powerwall</a>
+						<a href="#">Powerwall</a>
 					</li>
 					<li>
-						<a href="/">Commercial Energy</a>
+						<a href="#">Commercial Energy</a>
 					</li>
 					<li>
-						<a href="/">Utilities</a>
+						<a href="#">Utilities</a>
 					</li>
 					<li>
-						<a href="/">Find Us</a>
+						<a href="#">Find Us</a>
 					</li>
 					<li>
-						<a href="/">Support</a>
+						<a href="#">Support</a>
 					</li>
 					<li>
-						<a href="/">
+						<a href="#">
 							<Region>
 								<CustomIcon />
 								<RegionText>
